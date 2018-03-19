@@ -23,8 +23,8 @@ C4 - Développer une interface utilisateur (niveau 2)
 - Orange icons : #DDA771
 
 ### Rendus
-L1 : Le site internet développé (lien GitHub)
-L2 : Le code source est rendu disponible
+- L1 : Le site internet développé (lien GitHub)
+- L2 : Le code source est rendu disponible
 
 ### Contraintes
 - Utilisation du framework CSS Bootstrap
