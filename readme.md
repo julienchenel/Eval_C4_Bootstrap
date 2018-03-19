@@ -1,4 +1,3 @@
-
 ### Objectifs
 Créer une interface utilisateur en utilisant une maquette fournie
 
