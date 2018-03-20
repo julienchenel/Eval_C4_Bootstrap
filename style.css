@@ -1,0 +1,62 @@
+
+/*Style de la barre de navigation*/
+
+.navigation {
+
+	background-color: #E1EFE0 !important;
+}
+
+
+/*Style des icones de navigation*/
+
+.ico {
+fill : #7DAB7A;
+
+}
+
+/*Style des titres des boîtes modales*/
+
+.modal-title {
+
+font-size: 30px;
+
+
+}
+
+/*Style des sous-titres des boîtes modales*/
+
+.modalSubTitle
+
+{
+  color: grey;
+}
+
+/*Couleur des boutons des boîtes modales*/
+
+.greenButton {
+	background-color: #28962A;
+	border : none;
+}
+
+.redButton {
+	background-color: #D9534F;
+	border: none;
+}
+
+.blueButton {
+	background-color: #428BCA;
+	border: none;
+}
+
+
+label {
+	color: grey;
+}
+
+/*largeur et centrage des tableau des boîtes modales*/
+
+.table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
